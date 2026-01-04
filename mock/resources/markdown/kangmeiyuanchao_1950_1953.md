@@ -1,0 +1,346 @@
+<div>
+    <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+        <strong>
+            <span style="margin-top: 1px; margin-bottom: 2px; line-height: 2em; color: #9f1418;">
+                编者的话：
+            </span>
+        </strong>
+    </p>
+    <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+        10月25日，《人民日报》第7版整版刊发《从“钢少气多”到“钢多气盈” 伟大抗美援朝精神历久弥新——战旗美如画 强军铸荣光》（纪念中国人民志愿军抗美援朝出国作战75周年特别策划）。
+    </p>
+    <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+        请关注《人民日报》报道全文：
+    </p>
+    <p style="text-align: center; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+        <img src="../img/4.jpg" style="width: 80%; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+        </img>
+    </p>
+    <p style="text-align: center; margin-top: 1px; margin-bottom: 2px; line-height: 2em; text-indent: 0em; font-size: 19px;">
+        <span data-index="8" style="font-size: 19px;">
+            <strong>
+                <span style="margin-top: 1px; margin-bottom: 2px; line-height: 2em; color: #9f1418;">
+                    从“钢少气多”到“钢多气盈” 伟大抗美援朝精神历久弥新
+                </span>
+            </strong>
+        </span>
+    </p>
+    <p style="text-align: center; margin-top: 1px; margin-bottom: 2px; line-height: 2em; text-indent: 0em; font-size: 19px;">
+        <span data-index="8" style="font-size: 19px;">
+            <strong>
+                <span style="margin-top: 1px; margin-bottom: 2px; line-height: 2em; color: #9f1418; font-size: 19px;">
+                    战旗美如画 强军铸荣光
+                </span>
+            </strong>
+        </span>
+    </p>
+    <p style="text-align: center; margin-top: 1px; margin-bottom: 2px; line-height: 2em; text-indent: 0em;">
+        <span style="color: rgb(0, 0, 0);">
+            （纪念中国人民志愿军抗美援朝出国作战75周年特别策划）
+        </span>
+    </p>
+    <p style="text-align: center; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+        <img src="../img/5.jpg">
+            <p style="margin-top: 1px; margin-bottom: 2px; line-height: 2em;"></p>
+            <p style="margin-top: 1px; margin-bottom: 2px; line-height: 2em;"></p>
+            <p style="text-align: center; margin-top: 1px; margin-bottom: 2px; line-height: 2em; text-indent: 0em;">
+                <span style="margin-top: 1px; margin-bottom: 2px; line-height: 2em; color: rgb(0, 176, 240); font-family: 楷体, SimKai;">
+                    1950年10月19日，中国人民志愿军跨过鸭绿江，开赴朝鲜战场。图片来源：抗美援朝纪念馆官网
+                </span>
+            </p>
+            <p style="text-align: center; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                <img src="../img/6.jpg" style="margin-top: 1px; margin-bottom: 2px; line-height: 2em;"></img>
+            </p>
+            <p style="margin-top: 1px; margin-bottom: 2px; line-height: 2em;"></p>
+            <p style="text-align: center; margin-top: 1px; margin-bottom: 2px; line-height: 2em; text-indent: 0em;">
+                <span style="margin-top: 1px; margin-bottom: 2px; line-height: 2em; color: rgb(0, 176, 240); font-family: 楷体, SimKai;">
+                    9月12日，第十二批在韩中国人民志愿军烈士遗骸回国。这是空军空降兵某部“黄继光英雄连”官兵在沈阳桃仙国际机场举行的迎回仪式上。新华社记者 潘昱龙摄
+                </span>
+            </p>
+            <p style="text-align: center; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                <img src="../img/7.jpg" style="margin-top: 1px; margin-bottom: 2px; line-height: 2em;"></img>
+            </p>
+            <p style="margin-top: 1px; margin-bottom: 2px; line-height: 2em;"></p>
+            <p style="margin-top: 1px; margin-bottom: 2px; line-height: 2em;"></p>
+            <p style="text-align: center; margin-top: 1px; margin-bottom: 2px; line-height: 2em; text-indent: 0em;">
+                <span style="margin-top: 1px; margin-bottom: 2px; line-height: 2em; color: rgb(0, 176, 240); font-family: 楷体, SimKai;">
+                    陆军第83集团军某旅“杨根思连”官兵前往训练场。闫帅印摄
+                </span>
+                <br>
+                </br>
+            </p>
+            <p style="text-align: center; margin-top: 1px; margin-bottom: 2px; line-height: 2em; text-indent: 0em; font-size: 19px;">
+                <span data-index="8" style="font-size: 19px;">
+                    <strong>
+                        <span style="margin-top: 1px; margin-bottom: 2px; line-height: 2em; color: #9f1418;">
+                            感悟那股英雄气
+                        </span>
+                    </strong>
+                </span>
+            </p>
+            <p style="text-align: center; margin-top: 1px; margin-bottom: 2px; line-height: 2em; text-indent: 0em;">
+                <strong>
+                    <span style="margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                        金正波
+                    </span>
+                </strong>
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                陆军第81集团军某旅“松骨峰特功连”连史馆里，陈列着一份泛黄的报纸——1951年4月11日，人民日报头版刊发了作家魏巍的《谁是最可爱的人》。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                “汽油弹的火焰把这个阵地烧红了”“勇士们在这烟与火的山岗上，高喊着口号”……文章记录了先辈们浴血奋战、誓死守住松骨峰高地的英雄壮举。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                记录历史的文字，有一种穿透时空的力量。这些在战火中凝练的伟大瞬间，浓缩精神，映照初心。每每重温，总会让人热泪盈眶、肃然起敬。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                今年是中国人民志愿军抗美援朝出国作战75周年。75年前，中国人民志愿军雄赳赳、气昂昂，跨过鸭绿江，历经两年零9个月艰苦卓绝的浴血奋战，赢得了抗美援朝战争的伟大胜利。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                习近平总书记强调：“抗美援朝战争伟大胜利，将永远铭刻在中华民族的史册上！永远铭刻在人类和平、发展、进步的史册上！”“伟大抗美援朝精神跨越时空、历久弥新，必须永续传承、世代发扬。”
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                当年，在装备处于绝对劣势的条件下，志愿军坚定必胜信念、发扬英雄气概，以“钢少气多”力克“钢多气少”，拼来山河无恙。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                战旗美如画，强军铸荣光，人民军队的英雄本色不改。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                战争不仅是物质的较量，更是精神的比拼。在抗美援朝战场上，这“气”，是“一把炒面一把雪”的坚韧，是敢于“空中拼刺刀”的胆气，是胸膛堵枪眼的无畏。正是这股“气”，让人民军队能够以弱胜强。跨过万水千山，越过雄关险隘。迈向新时代，国产航母破浪前行，隐形战机翱翔蓝天，战略导弹威震寰宇……人民军队手中的“钢”已焕然一新。“凯旋四机长空列阵，奉命为您护航”“我是中国海军101舰，请与我保持安全距离”……有了大国重器，这股“气”有了更加坚实的物质依托；充盈的“气”，又为“钢”的锻造注入灵魂。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                从“保家卫国”的战场到经济社会发展的现场，伟大抗美援朝精神所体现的爱国主义精神、革命英雄主义精神始终闪耀，启迪未来。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                如今，从抗洪抢险到卫国戍边，从乡村全面振兴主战场到科技攻关最前沿……无论面对多大困难、遭遇多少挑战，中国人民以顽强意志、执着坚守，不断书写下可歌可泣的壮丽篇章。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                从苦难走向辉煌，从“钢少气多”的艰苦卓绝到“钢多气盈”的自信从容，英雄故事永志不忘，英雄精神永不褪色。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                站在特殊的时空节点回望历史，感悟那股英雄气，脑海中再次响起那句话：“请再深深地爱我们的战士吧，他们确实是我们最可爱的人！”
+            </p>
+            <p style="text-align: center; margin-top: 1px; margin-bottom: 2px; line-height: 2em; text-indent: 0em; font-size: 19px;">
+                <span data-index="8" style="color: #9f1418; font-size: 19px;">
+                    <strong>
+                        <span style="margin-top: 1px; margin-bottom: 2px; line-height: 2em; color: #9f1418;">
+                            一句英雄宣言，融入连队血脉
+                        </span>
+                    </strong>
+                </span>
+            </p>
+            <p style="text-align: center; margin-top: 1px; margin-bottom: 2px; line-height: 2em; text-indent: 0em;">
+                <strong>
+                    <span style="margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                        李龙伊
+                    </span>
+                </strong>
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                “老连长，我们向您报告——全连11名官兵作为陆军方队成员，走过天安门，接受党和人民的检阅！”
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                初秋，陆军第83集团军某旅杨根思广场，刚刚完成阅兵任务的“杨根思连”官兵回到营区，征尘未洗便整齐列队。队列前方，第三十二任连长李昊原向老连长杨根思的雕像庄严报告。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                阳光下，特级英雄杨根思的雕像巍然挺立，保持着冲锋姿态。回望75年前，长津湖畔，时任连长杨根思喊出“三个不相信”的英雄宣言：“不相信有完不成的任务，不相信有克服不了的困难，不相信有战胜不了的敌人！”他带领官兵连续打退敌人8次疯狂进攻。在阵地只剩他一人时，他抱起炸药包，毅然冲入敌群，与敌人同归于尽。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                时光流转，精神永存。走进“杨根思连”，宿舍第一张床铺仍贴着“杨根思”的名字；走廊上，“三个不相信”宣言格外醒目；晚点名时，一声“杨根思”，全连齐声答“到”，声震夜空。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                “老连长一直陪伴着官兵成长，‘三个不相信’的英雄宣言早已刻进血脉。”连队政治指导员马喆说。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                2016年7月，南苏丹朱巴爆发冲突，流弹击穿维和营地墙板，炮弹在哨位不远处爆炸。危急关头，参与维和的连队官兵坚守战位。执勤一天的李磊主动请战。任务中，一枚火箭弹击中步兵战车，李磊壮烈牺牲。生命最后一刻，他说：“我这辈子就交给党了。”
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                为什么战旗美如画？英雄的鲜血染红了它。一代代“杨根思连”官兵把优良传统视作生命，哪怕困难再大，也不后退一步。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                “报告老连长，我是连队第6986名战士。”2022年12月，卫国戍边烈士肖思远的弟弟肖荣基加入“杨根思连”。第一次晚点名，听到全连齐声答“到”，他泪眼模糊，暗下决心：“要像老连长一样建功军营！”
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                3年来，肖荣基在训练场上不断“突击”：手掌磨出血泡不喊疼，汗水浸透衣衫也不停止训练。参加旅预提指挥军士集训，他总评优秀；英模连队抽考中，他担任狙击手，取得优异成绩。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                进入新时代，“杨根思连”官兵将“三个不相信”英雄宣言转化为敢打必胜的信念，连队先后荣立集体一等功2次、二等功4次、三等功3次。英雄气概，在一茬茬官兵心中激荡。（胡瑞智参与采写）
+            </p>
+            <p style="text-align: center; margin-top: 1px; margin-bottom: 2px; line-height: 2em; text-indent: 0em; font-size: 19px;">
+                <span data-index="8" style="color: #9f1418; font-size: 19px;">
+                    <strong>
+                        <span style="margin-top: 1px; margin-bottom: 2px; line-height: 2em; color: #9f1418;">
+                            一面航空罗盘，铭刻战斗精神
+                        </span>
+                    </strong>
+                </span>
+            </p>
+            <p style="text-align: center; margin-top: 1px; margin-bottom: 2px; line-height: 2em; text-indent: 0em;">
+                <strong>
+                    <span style="margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                        金正波
+                    </span>
+                </strong>
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                金秋，北部战区空军某部一场跨昼夜高强度对抗训练告一段落。走下战机的“强军先锋飞行大队”飞行员张金龙，脱下抗荷服，汗水已浸透飞行服。他取下固定在腿部的电子夹板，屏幕上显示出航线轨迹等信息。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                这一幕，与部队荣誉馆中陈列的老式航空罗盘形成鲜明对比。刻度斑驳的罗盘，曾是抗美援朝战场上英雄飞行员杀敌报国的利器。当年，凭着简陋装备，他们以“空中拼刺刀”精神，“宁可血洒蓝天，撞也要把敌机撞下来”，打出令敌人胆寒的“米格走廊”。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                从罗盘到智能夹板，从手动操作到信息化操控，装备跨越式发展引发深思：面对现代超视距空战，“空中拼刺刀”精神是否依然适用？
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                面对提问，张金龙目光坚毅：“‘空中拼刺刀’体现的是飞行员在危急关头敢于亮剑的战斗意志。这种精神永不过时。”
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                “未来空战，既要装备精良，更要血性胆魄。”该部领导介绍，“强军先锋飞行大队”常态化开展“忆队史、铸队魂、做传人”活动，邀请抗美援朝老战士讲述战史，铸牢“搏击长空心向党、飞行万里不迷航”的思想根基。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                该部前身是人民空军首支组建、首支参战、首获胜绩的航空兵部队。抗美援朝战场上，年轻飞行员与强敌进行空中较量，击落击伤敌机88架。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                进入新时代，该部飞远海、上高原、战戈壁，圆满完成30余项重大任务，5次夺得空军对抗空战考核团体第一，多人次斩获“金头盔”。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                以国家之名，护英烈回家。今年9月12日，大队飞行员驾驶4架歼—20战机，护航志愿军烈士遗骸归国。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                护航任务中，运输机用“跨江50”呼号致敬1950年英雄前辈雄赳赳、气昂昂跨过鸭绿江的壮举；战机“凯旋”的呼号，寓意护卫英烈归来，昭示铭记伟大胜利。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                “先辈血染疆场，才换来今日山河无恙。”大队飞行员、执行护航任务的塔台指挥员陈德翘动情地说，“荣誉值得铭记，精神永续传承。我们要苦练精飞，锻造胜战本领，更好守护祖国空天。”
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                时代发展，变化的是装备，不变的是熔铸于一代代蓝天骄子血脉中的忠诚、勇气与担当。（王学峰、马云龙参与采写）
+            </p>
+            <p style="text-align: center; margin-top: 1px; margin-bottom: 2px; line-height: 2em; text-indent: 0em; font-size: 19px;">
+                <span data-index="8" style="color: #9f1418; font-size: 19px;">
+                    <strong>
+                        <span style="margin-top: 1px; margin-bottom: 2px; line-height: 2em; color: #9f1418;">
+                            一挺老式机枪，砥砺血性胆气
+                        </span>
+                    </strong>
+                </span>
+            </p>
+            <p style="text-align: center; margin-top: 1px; margin-bottom: 2px; line-height: 2em; text-indent: 0em;">
+                <strong>
+                    <span style="margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                        任彤彤
+                    </span>
+                </strong>
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                铁甲轰鸣，硝烟弥漫，一场实战化战术演练在某地野外激战正酣。面对复杂“敌情”，空降兵某旅“孙占元生前所在连”官兵密切协同配合，一举夺取既定目标，最终将胜利旗帜插到了“敌”阵地上。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                演练结束，“孙占元生前所在连”官兵在回营路上经过连队文化走廊，他们驻足良久，凝视着展板上的一挺轻机枪。这是一级英雄、特等功臣孙占元生前使用的机枪，实物现陈列在中国人民革命军事博物馆。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                这挺机枪，见证了73年前的英雄壮举。上甘岭战役中，孙占元率突击排向敌人发起反击，双腿不幸被炮弹炸断。面对敌人的猛烈进攻，他强忍剧痛，顽强地爬行指挥战斗。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                孙占元利用已攻占的碉堡，架起缴获的机枪轮番射击，接连打退敌人两次冲击，毙伤敌80余人。当弹药告罄、敌军拥上阵地时，他拉响了最后一颗手雷，与敌人同归于尽，壮烈牺牲，年仅27岁。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                血脉相承，薪火相传。每逢新兵下连、新干部入营，唱的第一首歌是《我们都是孙占元》，上的第一堂教育课是学习孙占元战斗故事，看的第一部电影是《上甘岭》，晚点名第一个呼点的是“孙占元”……
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                在强军兴军征程中，他们始终传承发扬“攻得勇猛，守得顽强”连魂，以实际行动叫响“像孙占元一样战斗”的口号，向老排长交出合格答卷。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                连队不仅出色完成了演习演训、比武竞赛等多项重大任务，还取得“军事训练一级连”“‘四铁’先进单位”等荣誉，多次荣立集体三等功。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                某次演习任务中，“孙占元生前所在连”官兵跨区机动数千公里，来到陌生地域。面临着无气象资料、无地面标识、无指挥引导的“三无”条件和未知风险，官兵高呼连魂，勇敢跃出了飞机机门。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                着陆时，官兵中有人皮肤被骆驼刺划伤，有人手脚被磨破，甚至有人负伤骨折，但无人退缩。大家势如破竹，出色完成任务，展示了过硬的战斗素养。“我们是孙占元传人，不能给老排长丢人！”官兵们坚定表示。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                今年九三阅兵中，一双崭新的皮鞋被放在战车车舱里，和空降突击方队受阅官兵一起通过天安门。来自“孙占元生前所在连”的受阅官兵们，为老排长圆了一个梦——“等抗美援朝胜利了，要买双皮鞋去天安门照个相。”（成传港参与采写） 
+            </p>
+            <p style="text-align: center; margin-top: 1px; margin-bottom: 2px; line-height: 2em; text-indent: 0em; font-size: 19px;">
+                <span data-index="8" style="color: #9f1418; font-size: 19px;">
+                    <strong>
+                        <span style="margin-top: 1px; margin-bottom: 2px; line-height: 2em; color: #9f1418;">
+                            一只救治背包，见证医者仁心
+                        </span>
+                    </strong>
+                </span>
+            </p>
+            <p style="text-align: center; margin-top: 1px; margin-bottom: 2px; line-height: 2em; text-indent: 0em;">
+                <strong>
+                    <span style="margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                        李龙伊
+                    </span>
+                </strong>
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                在联勤保障部队第九六六医院的院史馆里，一只旧背包静静陈列，向医护人员无声讲述着一段不容忘却的历史。这个沾满血渍、边角磨破的救治背包，曾穿越抗美援朝战争的烽火硝烟。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                该院的前身是志愿军总医院，曾涌现出朱勇等一批“战地天使”。而那只背包，正是朱勇在枪林弹雨中抢救伤员的“救治武器”。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                1950年冬，抗美援朝战争第二次战役打响。16岁的护士朱勇写下请战书，奔赴前线。她和战友背着药包，冒着炮火穿梭在战场。一次敌机轰炸后，她被浓重的炸药味熏晕，醒来后立即摸黑爬进山洞，把昏迷的战友一个个拖出洞来。旁人劝她歇歇，她回答：“只要我还活着，就要尽最大努力救治伤员！”
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                战事紧张，伤员难以后送。朱勇就背着药品器械，抬着担架，徒步数里抢运伤员。白天冒着轰炸，夜里摸黑前行。她多次滚下山坡，满身青紫；敌机轰炸时，她用身体护住救治背包。“在战场上，能救人的背包比我的命更重要。”她说。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                英雄历史从未走远，英雄故事仍在延续。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                近年来，该院弘扬“一切为了前线、一切为了伤病员、一切为了胜利”的战救传统，修建院史馆陈列战时实物，以情景再现等方式，让那段历史走进医护人员内心深处。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                “每次背上新型救治背包参加训练，我总会想起朱勇前辈的那只旧背包。”军士高舒琪说，“它提醒我们，作为白衣战士，必须时刻准备上前线、救伤员。”
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                近日，一场实战化卫勤演练激烈进行。高舒琪所在野战医疗队接到前方“伤员”求救信号后，迅速前出。道路被毁，车辆无法通行，医护人员果断背负数十斤重的救治背包徒步奔袭，连续转移多名“重伤员”。体力几近透支，高舒琪依然咬牙坚持。“只要我还有一点力气，就不会放弃任何一个伤员！”高舒琪说。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                如今，这只穿越战火的救治背包依然被珍藏在院史馆中，而它所承载的精神，正随着一批批白衣战士的身影，在新时代的强军路上坚定传承。（汪学潮、戴鹏飞参与采写）
+            </p>
+            <p style="text-align: center; margin-top: 1px; margin-bottom: 2px; line-height: 2em; text-indent: 0em; font-size: 19px;">
+                <span data-index="8" style="font-size: 19px;">
+                    <strong>
+                        <span style="margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                            聆听志愿军老战士的心声（感言）
+                        </span>
+                    </strong>
+                </span>
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                70多年过去，我还时常想起当年驾驶战机飞过鸭绿江的时候。那时，我们都很年轻，平均只在战斗机上飞过二三十个小时，对面的敌人却是飞行了数百小时的“老手”。但我们心中，都有一种敢于“空中拼刺刀”的勇气和决绝。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                我的战友蒋道平，入朝作战时是全队单飞时间最短的，却击落了美军王牌飞行员驾驶的飞机；战友宋义春被敌机咬尾，冷静利用爬升优势反杀，打得对手冒着烟滚落；僚机飞行员闫清水，战鹰已伤仍坚持作战，最终英勇击落敌机……从1952年底到最终取得胜利，我们中队击落击伤敌机14架。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                那时，我们飞的不是先进的飞机，却飞出了坚定的航迹。今年九三阅兵中，我看着空中梯队一架架新型战机呼啸而过，心中百感交集。那片我们曾经用生命守护的蓝天，如今有了真正强大的翅膀可以翱翔。新时代的飞行员们，愿你们永远记得——敢拼敢战的骨气，是人民空军最珍贵的财富。
+            </p>
+            <p style="text-align: right; margin-top: 1px; margin-bottom: 2px; line-height: 2em; text-indent: 0em;">
+                ——中国人民志愿军空军飞行员、空军航空兵某部“李世英中队”原中队长李世英（金正波整理）
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                中国人民志愿军抗美援朝出国作战纪念日到来，我思绪万千。这么多年过去了，脑海里时常浮现出我和战友们出征时的模样。入朝参战时，我只有13岁，是一名文工团团员。一次去前线演出时，我突发高烧，身体很难受。战友们心疼我，一名十八九岁的战士把我背到连队休息。演出结束，我们相约下次演出再见。可是，他却“失约”了。后来询问他的情况时，得知他已经牺牲，遗憾的是我还不知他的名字。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                今年9月12日，在第十二批在韩中国人民志愿军烈士遗骸迎回仪式现场，看到棺椁从运-20里一一运出，泪水夺眶而出。那位背过我、给过我温暖承诺的战士，不知道是否已经魂归祖国？
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                志愿军战士们用最宝贵的年华，守护着身后的祖国和人民。如今，国家富强、人民幸福、军队强大，这盛世足以告慰先烈英灵。
+            </p>
+            <p style="text-indent: 2em; text-align: justify; margin-top: 1px; margin-bottom: 2px; line-height: 2em;">
+                年轻的战士们，请稳稳地扛起先辈们的枪，为实现中国梦强军梦不懈奋斗，在迈向建设世界一流军队的征途中挥洒青春汗水。
+            </p>
+            <p style="text-align: right; margin-top: 1px; margin-bottom: 2px; line-height: 2em; text-indent: 0em;">
+                ——中国人民志愿军第九兵团政治部文工团团员何临弟（王栋整理）
+            </p>
+        </img>
+    </p>
+</div>

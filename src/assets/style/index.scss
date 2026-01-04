@@ -1,0 +1,81 @@
+@use './animation';
+@use './layui';
+@use './nprogress';
+@use './variables';
+
+@font-face {
+  font-family: MaoBi;
+  font-style: normal;
+  font-weight: normal;
+  src: url('../ttf/MaoBi.ttf');
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background: url('@/assets/img/base-bg.jpg') no-repeat;
+  background-size: cover;
+}
+
+.text-ellipsis {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.app-container {
+  width: 75%;
+  max-width: 1400px;
+  padding-bottom: 80px;
+  margin: 0 auto;
+
+  @include respond-to('phone') {
+    width: calc(100% - 32px);
+  }
+}
+
+.card {
+  position: relative;
+  overflow: hidden;
+  background-color: #fff;
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-in-md);
+}
+
+.red-btn {
+  display: inline-block;
+  padding: 10px 20px;
+  font-weight: 500;
+  color: #fff;
+  text-decoration: none;
+  cursor: pointer;
+  background: linear-gradient(to right, var(--red-primary), var(--red-secondary));
+  border-radius: 50px;
+  box-shadow: 0 2px 8px rgb(199 28 34 / 20%);
+  transition: var(--transition-base);
+
+  &:hover {
+    background: linear-gradient(to right, var(--red-dark), var(--red-primary));
+    box-shadow: 0 4px 12px rgb(199 28 34 / 30%);
+    transform: translateY(-2px);
+  }
+
+  svg {
+    margin-right: 5px;
+  }
+}
+
+.img-zoom {
+  width: 100%;
+  cursor: pointer;
+  object-fit: cover;
+  transition: all 1s;
+
+  &:hover {
+    transform: scale(1.1);
+  }
+}
