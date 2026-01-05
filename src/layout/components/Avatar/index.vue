@@ -3,15 +3,17 @@ import { layer } from '@layui/layui-vue'
 import { useUserStore } from '@store/user'
 
 const router = useRouter()
-const { userInfo, logout } = storeToRefs(useUserStore())
+const userStore = useUserStore()
+const { userInfo } = storeToRefs(userStore)
 
 async function handleLogout() {
   layer.confirm('确定退出登录吗？', {
+    title: '提示',
     btn: [
       {
         text: '确定',
         callback: async id => {
-          await logout()
+          await userStore.logout()
           await router.push('/')
           layer.close(id)
         },

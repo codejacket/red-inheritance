@@ -15,7 +15,7 @@
   },
   "keywords": [],
   "scripts": {
-    "dev": "vite --mode mock",
+    "dev": "vite",
     "mock": "vite --mode mock",
     "build": "vite build",
     "preview": "vite preview",

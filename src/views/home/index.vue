@@ -1,25 +1,30 @@
 <script name="Home" setup>
-import { listHero } from '@/api/hero'
 import Card from '@/components/Card'
 import Swiper from '@/components/Swiper'
-import { deathTimeOptions, nativePlaceOptions } from '@/constants'
 import { SwiperSlide } from 'swiper/vue'
 
-const heroList = ref([])
-
-getHeroList()
-
-async function getHeroList() {
-  const { data } = await listHero({
-    query: {
-      nativePlace: nativePlaceOptions[0],
-      deathTime: deathTimeOptions[0],
-    },
-    pageNum: 1,
-    pageSize: 9,
-  })
-  heroList.value = data.list
-}
+const learnList = ref([
+  {
+    content: '退役军人事务部代表团赴马来西亚、巴布亚新几内亚踏勘祭扫境外抗战烈士纪念设施',
+    time: '2025-08-27',
+  },
+  {
+    content: '驻哥打基纳巴卢总领事朱兴龙出席“卓还来烈士公祭典礼”',
+    time: '2025-07-30',
+  },
+  {
+    content: '中国驻黎巴嫩使馆与赴黎维和部队祭扫杜照宇烈士墓',
+    time: '2025-07-28',
+  },
+  {
+    content: '中国驻朝鲜使馆祭奠中国人民志愿军先烈',
+    time: '2025-07-28',
+  },
+  {
+    content: '心相近｜“永远不会忘记”——中俄友谊故事世代流传',
+    time: '2025-05-06',
+  },
+])
 </script>
 
 <template>
@@ -85,7 +90,7 @@ async function getHeroList() {
     <card class="my30px">
       <div class="card-header">
         <h3 class="card-title">
-          <svg-icon icon="book" />
+          <svg-icon icon="open-reader" />
           <span>红色动态·学习传承</span>
         </h3>
         <router-link class="more-btn" to="/history">更多</router-link>
@@ -98,27 +103,9 @@ async function getHeroList() {
           </swiper-slide>
         </swiper>
         <ul class="learn-list">
-          <li class="learn-item">
-            <span>
-              退役军人事务部代表团赴马来西亚、巴布亚新几内亚踏勘祭扫境外抗战烈士纪念设施
-            </span>
-            <span class="color-#999">2025-08-27</span>
-          </li>
-          <li class="learn-item">
-            <span> 驻哥打基纳巴卢总领事朱兴龙出席“卓还来烈士公祭典礼” </span>
-            <span class="color-#999">2025-08-27</span>
-          </li>
-          <li class="learn-item">
-            <span> 中国驻黎巴嫩使馆与赴黎维和部队祭扫杜照宇烈士墓 </span>
-            <span class="color-#999">2025-08-27</span>
-          </li>
-          <li class="learn-item">
-            <span> 中国驻朝鲜使馆祭奠中国人民志愿军先烈 </span>
-            <span class="color-#999">2025-08-27</span>
-          </li>
-          <li class="learn-item">
-            <span>心相近｜“永远不会忘记”——中俄友谊故事世代流传</span>
-            <span class="color-#999">2025-08-27</span>
+          <li class="learn-item" v-for="item in learnList">
+            <span class="text-ellipsis" :title="item.content">{{ item.content }}</span>
+            <span class="time">{{ item.time }}</span>
           </li>
         </ul>
       </div>
@@ -168,6 +155,34 @@ async function getHeroList() {
   @include respond-to('phone') {
     flex-direction: column;
   }
+
+  .learn-list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    justify-content: space-between;
+    width: 100%;
+    list-style: inside;
+    list-style-type: square;
+
+    .learn-item {
+      display: flex;
+      gap: 10px;
+      justify-content: space-between;
+      line-height: 32px;
+      border-bottom: 1px #ddd dashed;
+
+      .time {
+        flex-shrink: 0;
+        color: #999;
+      }
+
+      &:hover {
+        color: var(--red-primary);
+        cursor: pointer;
+      }
+    }
+  }
 }
 
 .card-header {
@@ -188,26 +203,6 @@ async function getHeroList() {
 
   .more-btn {
     font-size: 16px;
-  }
-}
-
-.learn-list {
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
-  justify-content: space-between;
-  width: 100%;
-  list-style: inside;
-  list-style-type: square;
-
-  .learn-item {
-    display: flex;
-    justify-content: space-between;
-
-    &:hover {
-      color: var(--red-primary);
-      cursor: pointer;
-    }
   }
 }
 </style>
