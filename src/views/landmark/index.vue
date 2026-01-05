@@ -227,7 +227,7 @@ function goLandmarkDetail(landmark) {
 }
 
 #map {
-  height: calc(100vh - 64px - 116px);
+  height: min(calc(100vh - 64px - 116px), calc(100vw * 0.75 * 0.8), calc(1400px * 0.8));
   aspect-ratio: 5 / 4;
   margin: 0 auto;
 
