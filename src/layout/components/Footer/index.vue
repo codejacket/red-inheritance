@@ -11,10 +11,6 @@ const links = [
     url: 'http://dangshi.people.com.cn/index.html',
   },
   {
-    name: '中华英烈网',
-    url: 'https://www.chinamartyrs.gov.cn/',
-  },
-  {
     name: '央视网红色频道',
     url: 'https://tv.cctv.com/special/',
   },
